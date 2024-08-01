@@ -1,0 +1,1 @@
+https://access.cdn.redhat.com/content/origin/files/sha256/95/95f5bfc00f65be7785098bf196f21e76c3eca54f95b203ba8655c80676f665a7/ansible-automation-platform-setup-bundle-2.4-1-x86_64.tar.gz?_auth_=1722527520_db66858c6f7ddba0fcc34702624e770c
